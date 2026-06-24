@@ -9,4 +9,4 @@ This is a project I did for Deloitte's professional development program through 
 * Displays actionable insight based on visual findings.
 
 ## Downtime Analysis Dashboard 
-![](images/DeloitteDowntimeAnalysis.png)
+![](DeloitteDowntimeAnalysis.png)
