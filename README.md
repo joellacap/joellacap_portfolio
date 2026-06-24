@@ -24,7 +24,7 @@ This is a project I did as an undergraduate at Rutgers University for my Managem
 ## Hotel Bookings Dashboard
 ![](HotelBookingsDashBoard.png)
 
-## Average ADR by Month Pivot Table (Excel)
+## Average ADR by Month Pivot Table (Excel Snippet)
 ![](AvgADRbyMonth.png)
 
 # [Project 3: Decision Analysis and Risk Modeling Presentation](https://github.com/joellacap/decision-analysis-risk-modeling-project)
@@ -36,4 +36,5 @@ This is a presenation I did as an undergraduate at Rutgers University for my Bus
 * Calculated a regret table to measure opportunity cost per location
 * Concluded that no single location is universally optimal, the recommended alternative is a direct function of the decision maker's risk profile, illustrating the core trade-off between expected gain and downside exposure.
 
-![](Decision Analysis and Risk Modeling Project.pptx)
+## Minimax Regret Table (PowerPoint Snippet)
+![](MinimaxRegretTable.png)
