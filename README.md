@@ -10,3 +10,16 @@ This is a project I did for Deloitte's professional development program through 
 
 ## Downtime Analysis Dashboard 
 ![](DeloitteDowntimeAnalysis.png)
+
+# [Project 2: Hotel Performance Analysis](https://github.com/joellacap/hotel-performance-analysis)
+
+This is a project I did as an undergraduate at Rutgers University, where I cleaned up raw data, created pivot tables, and graphs in Excel as well as developed a dashboard in Tableau that highlights the firm's performance from 2015-2017.
+
+* The data used in the dashboard is hotel bookings data spanning from 2015-17, containing revenue, cancellation status, ADR (Average Daily Rate), hotel/resort location, meal packages, etc. Allowing stakeholders to properly analyze trends, patterns, and make insight based on a multitude of factors.
+* Uses content-filtering techniques to display revenue trends across four meal-packages.
+* Tracks ADR over time, segmented by City and Resort hotel types, highlighting seasonal pricing.
+* Displays actionable insight based on visual findings across geography, hotel type, and guest behavior.
+* EXCEL DATA/DOC CANNOT BE DISPLAYED DUE TO SIZE (can provide if needed)
+
+## Hotel Bookings Dashboard
+![](HotelBookingsDashBoard.png)
