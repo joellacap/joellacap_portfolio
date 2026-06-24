@@ -24,6 +24,9 @@ This is a project I did as an undergraduate at Rutgers University for my Managem
 ## Hotel Bookings Dashboard
 ![](HotelBookingsDashBoard.png)
 
+## Hotel Bookings Pivot Tables and Graps in Excel
+![](
+
 # [Project 3: Decision Analysis and Risk Modeling Presentation](https://github.com/joellacap/decision-analysis-risk-modeling-project)
 
 This is a presenation I did as an undergraduate at Rutgers University for my Business Decision Analysis Under Uncertainty course, where I created a scenario of a gym company figuring out where to open their first location. They must use decision analysis frameworks to evaluate which market to establish their location under three different economies: Booming, Stable, and Declining.  
