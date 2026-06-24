@@ -7,3 +7,6 @@ This is a project I did for Deloitte's professional development program through 
 * The Tableau dashboard data is Macora Industries telemetry data, allowing the firm to report manufacturing downtime based on location and device type.
 * The dashboard uses content-filtering techniques to display healthiness of locations and manufacturing device types.
 * Displays actionable insight based on visual findings.
+
+## Downtime Analysis Dashboard 
+![](images/DeloitteDowntimeAnalysis.png)
