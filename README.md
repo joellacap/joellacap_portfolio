@@ -24,8 +24,10 @@ This is a project I did as an undergraduate at Rutgers University for my Managem
 ## Hotel Bookings Dashboard
 ![](HotelBookingsDashBoard.png)
 
-## Hotel Bookings Pivot Tables and Graps in Excel
-![](
+## Hotel Bookings Pivot Tables and Graphs in Excel
+![](AvgADRbyMonth.png)
+
+![](ADRbyMonth.png)
 
 # [Project 3: Decision Analysis and Risk Modeling Presentation](https://github.com/joellacap/decision-analysis-risk-modeling-project)
 
