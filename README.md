@@ -37,4 +37,4 @@ This is a presenation I did as an undergraduate at Rutgers University for my Bus
 * Concluded that no single location is universally optimal, the recommended alternative is a direct function of the decision maker's risk profile, illustrating the core trade-off between expected gain and downside exposure.
 
 ## Minimax Regret Table (PowerPoint Snippet)
-![](MinimaxRegretTable.png)
+![](minimaxRegretTable.png)
